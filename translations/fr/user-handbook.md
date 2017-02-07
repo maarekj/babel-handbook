@@ -101,7 +101,7 @@ Nous pouvons compiler notre premier fichier comme suit :
 $ babel my-file.js
 ```
 
-Cela videra le résultat compilé directement dans votre terminal. Pour l’écrire dans un fichier, nous devons le préciser avec `--out-file` ou `-o`.
+Cela affichera le résultat compilé directement dans votre terminal. Pour l’écrire dans un fichier, nous devons le préciser avec `--out-file` ou `-o`.
 
 ```sh
 $ babel example.js --out-file compiled.js
